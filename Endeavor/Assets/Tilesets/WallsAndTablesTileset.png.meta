@@ -1,0 +1,5210 @@
+fileFormatVersion: 2
+guid: c6d3b3a78dd0f0c4795ffca476dcb751
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6031728495333164055
+    second: tilesetformattedupdate1_0
+  - first:
+      213: -5536866468224602559
+    second: tilesetformattedupdate1_1
+  - first:
+      213: 1450895737294311072
+    second: tilesetformattedupdate1_2
+  - first:
+      213: 1771613288839584780
+    second: tilesetformattedupdate1_3
+  - first:
+      213: 8832182980829192644
+    second: tilesetformattedupdate1_4
+  - first:
+      213: -758179382753831997
+    second: tilesetformattedupdate1_5
+  - first:
+      213: -289909062963813447
+    second: tilesetformattedupdate1_6
+  - first:
+      213: 2171340759970597649
+    second: tilesetformattedupdate1_7
+  - first:
+      213: 1316331263880017371
+    second: tilesetformattedupdate1_8
+  - first:
+      213: -7899779759525737576
+    second: tilesetformattedupdate1_9
+  - first:
+      213: 7800343079581839995
+    second: tilesetformattedupdate1_10
+  - first:
+      213: -8085389015821416275
+    second: tilesetformattedupdate1_11
+  - first:
+      213: -1728693888658218422
+    second: tilesetformattedupdate1_12
+  - first:
+      213: -3448453225969548409
+    second: tilesetformattedupdate1_13
+  - first:
+      213: -5609804604279972945
+    second: tilesetformattedupdate1_14
+  - first:
+      213: 3445399883934083773
+    second: tilesetformattedupdate1_15
+  - first:
+      213: -5936180788789026041
+    second: tilesetformattedupdate1_16
+  - first:
+      213: 5712665741591340575
+    second: tilesetformattedupdate1_17
+  - first:
+      213: -7726786318390027761
+    second: tilesetformattedupdate1_18
+  - first:
+      213: 8836669652621401896
+    second: tilesetformattedupdate1_19
+  - first:
+      213: -8669564042139388977
+    second: tilesetformattedupdate1_20
+  - first:
+      213: -6902320655215539880
+    second: tilesetformattedupdate1_21
+  - first:
+      213: -1121508030772797250
+    second: tilesetformattedupdate1_22
+  - first:
+      213: 8836664463224184408
+    second: tilesetformattedupdate1_23
+  - first:
+      213: 2947862207923346191
+    second: tilesetformattedupdate1_24
+  - first:
+      213: -5913310401077974999
+    second: tilesetformattedupdate1_25
+  - first:
+      213: -4687716727441612703
+    second: tilesetformattedupdate1_26
+  - first:
+      213: 2869253688582213745
+    second: tilesetformattedupdate1_27
+  - first:
+      213: -699909952755034610
+    second: tilesetformattedupdate1_28
+  - first:
+      213: -6589729484391073169
+    second: tilesetformattedupdate1_29
+  - first:
+      213: -8162836036523530723
+    second: tilesetformattedupdate1_30
+  - first:
+      213: 1314279985480536492
+    second: tilesetformattedupdate1_31
+  - first:
+      213: 1749501819063229728
+    second: tilesetformattedupdate1_32
+  - first:
+      213: 6520127341398739405
+    second: tilesetformattedupdate1_33
+  - first:
+      213: 6590666822061474821
+    second: tilesetformattedupdate1_34
+  - first:
+      213: 7849164326673889689
+    second: tilesetformattedupdate1_35
+  - first:
+      213: -628121285421809482
+    second: tilesetformattedupdate1_36
+  - first:
+      213: -1083412602063644890
+    second: tilesetformattedupdate1_37
+  - first:
+      213: -5633760371516646367
+    second: tilesetformattedupdate1_38
+  - first:
+      213: 7088216980738910447
+    second: tilesetformattedupdate1_39
+  - first:
+      213: -8368268899523792477
+    second: tilesetformattedupdate1_40
+  - first:
+      213: -5005814988543799116
+    second: tilesetformattedupdate1_41
+  - first:
+      213: -6196783468211368013
+    second: tilesetformattedupdate1_42
+  - first:
+      213: 8065397807306322459
+    second: tilesetformattedupdate1_43
+  - first:
+      213: 9085531349674164541
+    second: tilesetformattedupdate1_44
+  - first:
+      213: -5190779342257974373
+    second: tilesetformattedupdate1_45
+  - first:
+      213: 5365708425517337531
+    second: tilesetformattedupdate1_46
+  - first:
+      213: -4988511859942229112
+    second: tilesetformattedupdate1_47
+  - first:
+      213: 2012925098655226224
+    second: tilesetformattedupdate1_48
+  - first:
+      213: -7649964733200152664
+    second: tilesetformattedupdate1_49
+  - first:
+      213: -2599215593247275480
+    second: tilesetformattedupdate1_50
+  - first:
+      213: 8796396599460493354
+    second: tilesetformattedupdate1_51
+  - first:
+      213: 7170944362427313371
+    second: tilesetformattedupdate1_52
+  - first:
+      213: 5512120544883620924
+    second: tilesetformattedupdate1_53
+  - first:
+      213: -7144199684593745403
+    second: tilesetformattedupdate1_54
+  - first:
+      213: -2004292809014851706
+    second: tilesetformattedupdate1_55
+  - first:
+      213: -2099864625616347318
+    second: tilesetformattedupdate1_56
+  - first:
+      213: -2480378289177194457
+    second: tilesetformattedupdate1_57
+  - first:
+      213: 991326495483995290
+    second: tilesetformattedupdate1_58
+  - first:
+      213: -3754907186225509919
+    second: tilesetformattedupdate1_59
+  - first:
+      213: -737577908224187774
+    second: tilesetformattedupdate1_60
+  - first:
+      213: -5907019164194012650
+    second: tilesetformattedupdate1_61
+  - first:
+      213: -4372005570885810826
+    second: tilesetformattedupdate1_62
+  - first:
+      213: -3519281309386182128
+    second: tilesetformattedupdate1_63
+  - first:
+      213: -4791602192281161374
+    second: tilesetformattedupdate1_64
+  - first:
+      213: -2295566141149103543
+    second: tilesetformattedupdate1_65
+  - first:
+      213: 3793676886812611149
+    second: tilesetformattedupdate1_66
+  - first:
+      213: -1006011258418104773
+    second: tilesetformattedupdate1_67
+  - first:
+      213: 2993086085952971856
+    second: tilesetformattedupdate1_68
+  - first:
+      213: 4362278685590123121
+    second: tilesetformattedupdate1_69
+  - first:
+      213: 544177112414391211
+    second: tilesetformattedupdate1_70
+  - first:
+      213: 7678074242373587030
+    second: tilesetformattedupdate1_71
+  - first:
+      213: 8629645153337745811
+    second: tilesetformattedupdate1_72
+  - first:
+      213: 7103570434056387227
+    second: tilesetformattedupdate1_73
+  - first:
+      213: -7790746348293787638
+    second: tilesetformattedupdate1_74
+  - first:
+      213: -3469713002788605415
+    second: tilesetformattedupdate1_75
+  - first:
+      213: -3407572073540111433
+    second: tilesetformattedupdate1_76
+  - first:
+      213: 7673920420933840047
+    second: tilesetformattedupdate1_77
+  - first:
+      213: -1505493904978255481
+    second: tilesetformattedupdate1_78
+  - first:
+      213: -4558248079233727940
+    second: tilesetformattedupdate1_79
+  - first:
+      213: 5340101855854911820
+    second: tilesetformattedupdate1_80
+  - first:
+      213: -5979614393416261884
+    second: tilesetformattedupdate1_81
+  - first:
+      213: 3063376939114269997
+    second: tilesetformattedupdate1_82
+  - first:
+      213: 3025645282117472339
+    second: tilesetformattedupdate1_83
+  - first:
+      213: 1043800676594859850
+    second: tilesetformattedupdate1_84
+  - first:
+      213: -5944329518197413416
+    second: tilesetformattedupdate1_85
+  - first:
+      213: 974659266470214513
+    second: tilesetformattedupdate1_86
+  - first:
+      213: 2216978347911316923
+    second: tilesetformattedupdate1_87
+  - first:
+      213: 4306463727205802778
+    second: tilesetformattedupdate1_88
+  - first:
+      213: -8425583691274005862
+    second: tilesetformattedupdate1_89
+  - first:
+      213: -6301723955601468989
+    second: tilesetformattedupdate1_90
+  - first:
+      213: 4804723530135130715
+    second: tilesetformattedupdate1_91
+  - first:
+      213: 4606686402106156598
+    second: tilesetformattedupdate1_92
+  - first:
+      213: 1310232961405005362
+    second: tilesetformattedupdate1_93
+  - first:
+      213: 5788775717214059513
+    second: tilesetformattedupdate1_94
+  - first:
+      213: -3804299757971548755
+    second: tilesetformattedupdate1_95
+  - first:
+      213: -908162372469903258
+    second: tilesetformattedupdate1_96
+  - first:
+      213: 7343187687525066434
+    second: tilesetformattedupdate1_97
+  - first:
+      213: -8305786498477865723
+    second: tilesetformattedupdate1_98
+  - first:
+      213: 2190027118587321809
+    second: tilesetformattedupdate1_99
+  - first:
+      213: 2513779833104641147
+    second: tilesetformattedupdate1_100
+  - first:
+      213: 5705924295905620970
+    second: tilesetformattedupdate1_101
+  - first:
+      213: 8774416197365325546
+    second: tilesetformattedupdate1_102
+  - first:
+      213: -8516814109610303929
+    second: tilesetformattedupdate1_103
+  - first:
+      213: 7978893089617409455
+    second: tilesetformattedupdate1_104
+  - first:
+      213: 6971875437097617174
+    second: tilesetformattedupdate1_105
+  - first:
+      213: -7741574710832993865
+    second: tilesetformattedupdate1_106
+  - first:
+      213: 3847814375389306904
+    second: tilesetformattedupdate1_107
+  - first:
+      213: -5775574349063947309
+    second: tilesetformattedupdate1_108
+  - first:
+      213: 1691429557327186206
+    second: tilesetformattedupdate1_109
+  - first:
+      213: 1048789016681915430
+    second: tilesetformattedupdate1_110
+  - first:
+      213: -4426113837301347022
+    second: tilesetformattedupdate1_111
+  - first:
+      213: 2978335204409772444
+    second: tilesetformattedupdate1_112
+  - first:
+      213: -6782309317255162503
+    second: tilesetformattedupdate1_113
+  - first:
+      213: -3532265312210804215
+    second: tilesetformattedupdate1_114
+  - first:
+      213: -5735404844117922504
+    second: tilesetformattedupdate1_115
+  - first:
+      213: -1115980180182512988
+    second: tilesetformattedupdate1_116
+  - first:
+      213: -458436385197029497
+    second: tilesetformattedupdate1_117
+  - first:
+      213: 2417472040927443130
+    second: tilesetformattedupdate1_118
+  - first:
+      213: -5229257475218657464
+    second: tilesetformattedupdate1_119
+  - first:
+      213: -3299012944655522965
+    second: tilesetformattedupdate1_120
+  - first:
+      213: -4466219780188684575
+    second: tilesetformattedupdate1_121
+  - first:
+      213: -6529961863237075321
+    second: tilesetformattedupdate1_122
+  - first:
+      213: 7353373560622000618
+    second: tilesetformattedupdate1_123
+  - first:
+      213: -1554364905847519598
+    second: tilesetformattedupdate1_124
+  - first:
+      213: 4122891582661906360
+    second: tilesetformattedupdate1_125
+  - first:
+      213: 6616357954567966713
+    second: tilesetformattedupdate1_126
+  - first:
+      213: -5247389136199930605
+    second: tilesetformattedupdate1_127
+  - first:
+      213: -2054135595140863108
+    second: tilesetformattedupdate1_128
+  - first:
+      213: -2656564856327485571
+    second: tilesetformattedupdate1_129
+  - first:
+      213: -497695148520699793
+    second: tilesetformattedupdate1_130
+  - first:
+      213: 6200549935820923599
+    second: tilesetformattedupdate1_131
+  - first:
+      213: 4835662194276312111
+    second: tilesetformattedupdate1_132
+  - first:
+      213: -8409856369669837652
+    second: tilesetformattedupdate1_133
+  - first:
+      213: -8519476443948850157
+    second: tilesetformattedupdate1_134
+  - first:
+      213: -1399366913150728036
+    second: tilesetformattedupdate1_135
+  - first:
+      213: 8777579378996931745
+    second: tilesetformattedupdate1_136
+  - first:
+      213: 8960432832570262102
+    second: tilesetformattedupdate1_137
+  - first:
+      213: -3666978460246970470
+    second: tilesetformattedupdate1_138
+  - first:
+      213: -6561323578224240580
+    second: tilesetformattedupdate1_139
+  - first:
+      213: -7497984744669771405
+    second: tilesetformattedupdate1_140
+  - first:
+      213: -7394516155791390411
+    second: tilesetformattedupdate1_141
+  - first:
+      213: 544693876007278346
+    second: tilesetformattedupdate1_142
+  - first:
+      213: -8936023478194232652
+    second: tilesetformattedupdate1_143
+  - first:
+      213: 1053530584636840055
+    second: tilesetformattedupdate1_144
+  - first:
+      213: 1992127115231849843
+    second: tilesetformattedupdate1_145
+  - first:
+      213: -1580561011736732047
+    second: tilesetformattedupdate1_146
+  - first:
+      213: -1866853316957397347
+    second: tilesetformattedupdate1_147
+  - first:
+      213: -887105687550620613
+    second: tilesetformattedupdate1_148
+  - first:
+      213: 5256618646498626784
+    second: tilesetformattedupdate1_149
+  - first:
+      213: 7711454719019585544
+    second: tilesetformattedupdate1_150
+  - first:
+      213: 2934257305598521165
+    second: tilesetformattedupdate1_151
+  - first:
+      213: 578628796100926145
+    second: tilesetformattedupdate1_152
+  - first:
+      213: -600764007354361387
+    second: tilesetformattedupdate1_153
+  - first:
+      213: -7871387795633292074
+    second: tilesetformattedupdate1_154
+  - first:
+      213: -2364908674359238160
+    second: tilesetformattedupdate1_155
+  - first:
+      213: 1861014863664438177
+    second: tilesetformattedupdate1_156
+  - first:
+      213: 7482012355575869625
+    second: tilesetformattedupdate1_157
+  - first:
+      213: -3150609779145071755
+    second: tilesetformattedupdate1_158
+  - first:
+      213: -6154183688373657059
+    second: tilesetformattedupdate1_159
+  - first:
+      213: 6626941044746956349
+    second: tilesetformattedupdate1_160
+  - first:
+      213: -9003373434087001685
+    second: tilesetformattedupdate1_161
+  - first:
+      213: 6027575899621055594
+    second: tilesetformattedupdate1_162
+  - first:
+      213: 9019239443321256454
+    second: tilesetformattedupdate1_163
+  - first:
+      213: -4972417051743246786
+    second: tilesetformattedupdate1_164
+  - first:
+      213: 6619380910121839035
+    second: tilesetformattedupdate1_165
+  - first:
+      213: -6318566653434622593
+    second: tilesetformattedupdate1_166
+  - first:
+      213: -4194926686576976134
+    second: tilesetformattedupdate1_167
+  - first:
+      213: 784065746924006449
+    second: tilesetformattedupdate1_168
+  - first:
+      213: -7938043614568863043
+    second: tilesetformattedupdate1_169
+  - first:
+      213: -3934075344474471925
+    second: tilesetformattedupdate1_170
+  - first:
+      213: 713152271933676729
+    second: tilesetformattedupdate1_171
+  - first:
+      213: 4331384235341581257
+    second: tilesetformattedupdate1_172
+  - first:
+      213: -5286119267282978316
+    second: tilesetformattedupdate1_173
+  - first:
+      213: 82692785148511616
+    second: tilesetformattedupdate1_174
+  - first:
+      213: 8998942962282091368
+    second: tilesetformattedupdate1_175
+  - first:
+      213: -2285510338372577241
+    second: tilesetformattedupdate1_176
+  - first:
+      213: 8993879451068974875
+    second: tilesetformattedupdate1_177
+  - first:
+      213: -1312316418406068418
+    second: tilesetformattedupdate1_178
+  - first:
+      213: -1765869138853945379
+    second: tilesetformattedupdate1_179
+  - first:
+      213: -3090436013457001322
+    second: tilesetformattedupdate1_180
+  - first:
+      213: 1699900934426974690
+    second: tilesetformattedupdate1_181
+  - first:
+      213: -3113624841361302490
+    second: tilesetformattedupdate1_182
+  - first:
+      213: 7923707922698821496
+    second: tilesetformattedupdate1_183
+  - first:
+      213: 3968383557865333785
+    second: tilesetformattedupdate1_184
+  - first:
+      213: -6312189884721497102
+    second: tilesetformattedupdate1_185
+  - first:
+      213: 8647464945128634732
+    second: tilesetformattedupdate1_186
+  - first:
+      213: -2049986019804594290
+    second: tilesetformattedupdate1_187
+  - first:
+      213: 3988091018320777714
+    second: WallsAndTablesTileset_0
+  - first:
+      213: -5885171768978709551
+    second: WallsAndTablesTileset_1
+  - first:
+      213: 970115715757159910
+    second: WallsAndTablesTileset_2
+  - first:
+      213: -3726847983229619108
+    second: WallsAndTablesTileset_3
+  - first:
+      213: 4247536582273720827
+    second: WallsAndTablesTileset_4
+  - first:
+      213: 5915857312908502544
+    second: WallsAndTablesTileset_5
+  - first:
+      213: 7519447283949378343
+    second: WallsAndTablesTileset_6
+  - first:
+      213: -7405162704291203043
+    second: WallsAndTablesTileset_7
+  - first:
+      213: 6732194894086118848
+    second: WallsAndTablesTileset_8
+  - first:
+      213: -7511690351704021665
+    second: WallsAndTablesTileset_9
+  - first:
+      213: -8275154500695516909
+    second: WallsAndTablesTileset_10
+  - first:
+      213: -3913352568582971088
+    second: WallsAndTablesTileset_11
+  - first:
+      213: -6528194515192648426
+    second: WallsAndTablesTileset_12
+  - first:
+      213: 5508088145413426938
+    second: WallsAndTablesTileset_13
+  - first:
+      213: 2827577822006164341
+    second: WallsAndTablesTileset_14
+  - first:
+      213: 6020069647277700128
+    second: WallsAndTablesTileset_15
+  - first:
+      213: -7970283188122613180
+    second: WallsAndTablesTileset_16
+  - first:
+      213: -6647093458607391597
+    second: WallsAndTablesTileset_17
+  - first:
+      213: -5111429435332368648
+    second: WallsAndTablesTileset_18
+  - first:
+      213: 3920407940387820007
+    second: WallsAndTablesTileset_19
+  - first:
+      213: -7958359109679295209
+    second: WallsAndTablesTileset_20
+  - first:
+      213: 1813377864075363352
+    second: WallsAndTablesTileset_21
+  - first:
+      213: 4198460095546602470
+    second: WallsAndTablesTileset_22
+  - first:
+      213: -2497978303122235363
+    second: WallsAndTablesTileset_23
+  - first:
+      213: 7940214466601418914
+    second: WallsAndTablesTileset_24
+  - first:
+      213: 6389296310927404956
+    second: WallsAndTablesTileset_25
+  - first:
+      213: -955936182841111200
+    second: WallsAndTablesTileset_26
+  - first:
+      213: -6820331872444080357
+    second: WallsAndTablesTileset_27
+  - first:
+      213: 1882817784988486047
+    second: WallsAndTablesTileset_28
+  - first:
+      213: 8882377449633565601
+    second: WallsAndTablesTileset_29
+  - first:
+      213: -5163118980835722996
+    second: WallsAndTablesTileset_30
+  - first:
+      213: -8967197318741526159
+    second: WallsAndTablesTileset_31
+  - first:
+      213: 4914434539614082905
+    second: WallsAndTablesTileset_32
+  - first:
+      213: -1500477886225650212
+    second: WallsAndTablesTileset_33
+  - first:
+      213: -6861628284943991918
+    second: WallsAndTablesTileset_34
+  - first:
+      213: -2141011510683923332
+    second: WallsAndTablesTileset_35
+  - first:
+      213: 7621833098875455920
+    second: WallsAndTablesTileset_36
+  - first:
+      213: -5045771353091834523
+    second: WallsAndTablesTileset_37
+  - first:
+      213: -1111511822316954009
+    second: WallsAndTablesTileset_38
+  - first:
+      213: 7189535831820111535
+    second: WallsAndTablesTileset_39
+  - first:
+      213: -440286308336623689
+    second: WallsAndTablesTileset_40
+  - first:
+      213: -8596082482991568252
+    second: WallsAndTablesTileset_41
+  - first:
+      213: -1117178142601716133
+    second: WallsAndTablesTileset_42
+  - first:
+      213: 996625795514300717
+    second: WallsAndTablesTileset_43
+  - first:
+      213: 1300769329895831672
+    second: WallsAndTablesTileset_44
+  - first:
+      213: -3936414159190950821
+    second: WallsAndTablesTileset_45
+  - first:
+      213: -5143048858350930017
+    second: WallsAndTablesTileset_46
+  - first:
+      213: 7065635145305233411
+    second: WallsAndTablesTileset_47
+  - first:
+      213: 4146070995649873947
+    second: WallsAndTablesTileset_48
+  - first:
+      213: 5404120951247898472
+    second: WallsAndTablesTileset_49
+  - first:
+      213: 5096178950482414955
+    second: WallsAndTablesTileset_50
+  - first:
+      213: 9085650326480517470
+    second: WallsAndTablesTileset_51
+  - first:
+      213: 8029472985665875635
+    second: WallsAndTablesTileset_52
+  - first:
+      213: 190930203384643946
+    second: WallsAndTablesTileset_53
+  - first:
+      213: -2771245375358022319
+    second: WallsAndTablesTileset_54
+  - first:
+      213: 7719603221251340634
+    second: WallsAndTablesTileset_55
+  - first:
+      213: -4648764645580402683
+    second: WallsAndTablesTileset_56
+  - first:
+      213: 1144590118796433318
+    second: WallsAndTablesTileset_57
+  - first:
+      213: 3707832865323946159
+    second: WallsAndTablesTileset_58
+  - first:
+      213: -105347529409484261
+    second: WallsAndTablesTileset_59
+  - first:
+      213: -7328307401578042055
+    second: WallsAndTablesTileset_60
+  - first:
+      213: -8234893115893236747
+    second: WallsAndTablesTileset_61
+  - first:
+      213: 2894202717188129387
+    second: WallsAndTablesTileset_62
+  - first:
+      213: 8752954248318901286
+    second: WallsAndTablesTileset_63
+  - first:
+      213: 452654882776469083
+    second: WallsAndTablesTileset_64
+  - first:
+      213: 4882460514451380316
+    second: WallsAndTablesTileset_65
+  - first:
+      213: -4800101974928128948
+    second: WallsAndTablesTileset_66
+  - first:
+      213: 4401140549760347017
+    second: WallsAndTablesTileset_67
+  - first:
+      213: -5725144401220353145
+    second: WallsAndTablesTileset_68
+  - first:
+      213: 8567921840189953272
+    second: WallsAndTablesTileset_69
+  - first:
+      213: 3354374714219656792
+    second: WallsAndTablesTileset_70
+  - first:
+      213: -7554580086811084828
+    second: WallsAndTablesTileset_71
+  - first:
+      213: -6479981238329083585
+    second: WallsAndTablesTileset_72
+  - first:
+      213: -1069434894036122383
+    second: WallsAndTablesTileset_73
+  - first:
+      213: 3404070794848936886
+    second: WallsAndTablesTileset_74
+  - first:
+      213: -7834730851418069767
+    second: WallsAndTablesTileset_75
+  - first:
+      213: -5643206870174179439
+    second: WallsAndTablesTileset_76
+  - first:
+      213: 3436273647005090930
+    second: WallsAndTablesTileset_77
+  - first:
+      213: -8727310285927252564
+    second: WallsAndTablesTileset_78
+  - first:
+      213: 1025671043986060298
+    second: WallsAndTablesTileset_79
+  - first:
+      213: -7266081740235369343
+    second: WallsAndTablesTileset_80
+  - first:
+      213: -5238142595950887738
+    second: WallsAndTablesTileset_81
+  - first:
+      213: -4704410727285966949
+    second: WallsAndTablesTileset_82
+  - first:
+      213: 5462897578144069618
+    second: WallsAndTablesTileset_83
+  - first:
+      213: -3563456592649528189
+    second: WallsAndTablesTileset_84
+  - first:
+      213: 884521980657904235
+    second: WallsAndTablesTileset_85
+  - first:
+      213: 8356049639343081042
+    second: WallsAndTablesTileset_86
+  - first:
+      213: 6110931739121223897
+    second: WallsAndTablesTileset_87
+  - first:
+      213: -6658864558294345226
+    second: WallsAndTablesTileset_88
+  - first:
+      213: 5413799726579340563
+    second: WallsAndTablesTileset_89
+  - first:
+      213: -3867637698116273217
+    second: WallsAndTablesTileset_90
+  - first:
+      213: 6511099551658890560
+    second: WallsAndTablesTileset_91
+  - first:
+      213: 3296936213505091729
+    second: WallsAndTablesTileset_92
+  - first:
+      213: 5401730901878192502
+    second: WallsAndTablesTileset_93
+  - first:
+      213: -9192824206519135326
+    second: WallsAndTablesTileset_94
+  - first:
+      213: -8136072543467089386
+    second: WallsAndTablesTileset_95
+  - first:
+      213: -2448076134244390983
+    second: WallsAndTablesTileset_96
+  - first:
+      213: 6940059578029099042
+    second: WallsAndTablesTileset_97
+  - first:
+      213: 3030923773850508519
+    second: WallsAndTablesTileset_98
+  - first:
+      213: 8663685863970601440
+    second: WallsAndTablesTileset_99
+  - first:
+      213: -7949701029344190350
+    second: WallsAndTablesTileset_100
+  - first:
+      213: -5610776771254003358
+    second: WallsAndTablesTileset_101
+  - first:
+      213: -4062090811595434564
+    second: WallsAndTablesTileset_102
+  - first:
+      213: 910817892708341728
+    second: WallsAndTablesTileset_103
+  - first:
+      213: -3827848137331194541
+    second: WallsAndTablesTileset_104
+  - first:
+      213: 1293110179217623862
+    second: WallsAndTablesTileset_105
+  - first:
+      213: -7615909942796728161
+    second: WallsAndTablesTileset_106
+  - first:
+      213: -5368075894140144942
+    second: WallsAndTablesTileset_107
+  - first:
+      213: 5644121131222464429
+    second: WallsAndTablesTileset_108
+  - first:
+      213: -153209940540023049
+    second: WallsAndTablesTileset_109
+  - first:
+      213: 8830100229476208653
+    second: WallsAndTablesTileset_110
+  - first:
+      213: 5866367910736792872
+    second: WallsAndTablesTileset_111
+  - first:
+      213: -3300155491297605540
+    second: WallsAndTablesTileset_112
+  - first:
+      213: 4617045462604901234
+    second: WallsAndTablesTileset_113
+  - first:
+      213: 6708502646022725068
+    second: WallsAndTablesTileset_114
+  - first:
+      213: 4018201239592743418
+    second: WallsAndTablesTileset_115
+  - first:
+      213: 2250765192223005321
+    second: WallsAndTablesTileset_116
+  - first:
+      213: -6805611771134800861
+    second: WallsAndTablesTileset_117
+  - first:
+      213: 5174137944723176982
+    second: WallsAndTablesTileset_118
+  - first:
+      213: -5148207317494916942
+    second: WallsAndTablesTileset_119
+  - first:
+      213: 4025192854451178633
+    second: WallsAndTablesTileset_120
+  - first:
+      213: 6527371314225096733
+    second: WallsAndTablesTileset_121
+  - first:
+      213: 3219720771728819610
+    second: WallsAndTablesTileset_122
+  - first:
+      213: 1844728986906359609
+    second: WallsAndTablesTileset_123
+  - first:
+      213: -8179355824259478291
+    second: WallsAndTablesTileset_124
+  - first:
+      213: -8698780230983097118
+    second: WallsAndTablesTileset_125
+  - first:
+      213: -6302209989741949171
+    second: WallsAndTablesTileset_126
+  - first:
+      213: 4124215361801341885
+    second: WallsAndTablesTileset_127
+  - first:
+      213: 5844900869864168768
+    second: WallsAndTablesTileset_128
+  - first:
+      213: 2684023238322009501
+    second: WallsAndTablesTileset_129
+  - first:
+      213: 4030153351891398743
+    second: WallsAndTablesTileset_130
+  - first:
+      213: -4460883517633862121
+    second: WallsAndTablesTileset_131
+  - first:
+      213: 4387402358233995545
+    second: WallsAndTablesTileset_132
+  - first:
+      213: 2631989666529875465
+    second: WallsAndTablesTileset_133
+  - first:
+      213: -4439225165239444557
+    second: WallsAndTablesTileset_134
+  - first:
+      213: 4091335301300036770
+    second: WallsAndTablesTileset_135
+  - first:
+      213: 3119629841792632147
+    second: WallsAndTablesTileset_136
+  - first:
+      213: 5381337057427895858
+    second: WallsAndTablesTileset_137
+  - first:
+      213: -4755429415392318923
+    second: WallsAndTablesTileset_138
+  - first:
+      213: 250603852945994408
+    second: WallsAndTablesTileset_139
+  - first:
+      213: 361335959236458123
+    second: WallsAndTablesTileset_140
+  - first:
+      213: 5413988381745910963
+    second: WallsAndTablesTileset_141
+  - first:
+      213: 1859461844945104159
+    second: WallsAndTablesTileset_142
+  - first:
+      213: -3336445182880132672
+    second: WallsAndTablesTileset_143
+  - first:
+      213: 3184063425428326350
+    second: WallsAndTablesTileset_144
+  - first:
+      213: -6813642825907985551
+    second: WallsAndTablesTileset_145
+  - first:
+      213: 5634792413108220492
+    second: WallsAndTablesTileset_146
+  - first:
+      213: -4737484805230914705
+    second: WallsAndTablesTileset_147
+  - first:
+      213: -8772321087309622694
+    second: WallsAndTablesTileset_148
+  - first:
+      213: -2103126359606906393
+    second: WallsAndTablesTileset_149
+  - first:
+      213: -7780768465905108116
+    second: WallsAndTablesTileset_150
+  - first:
+      213: 1788006140932480856
+    second: WallsAndTablesTileset_151
+  - first:
+      213: -1722400859258287512
+    second: WallsAndTablesTileset_152
+  - first:
+      213: 1206647635294063527
+    second: WallsAndTablesTileset_153
+  - first:
+      213: 8213114607856646652
+    second: WallsAndTablesTileset_154
+  - first:
+      213: 6250636557774899103
+    second: WallsAndTablesTileset_155
+  - first:
+      213: 8626679286176562115
+    second: WallsAndTablesTileset_156
+  - first:
+      213: -6066857312169138030
+    second: WallsAndTablesTileset_157
+  - first:
+      213: 137483498226404184
+    second: WallsAndTablesTileset_158
+  - first:
+      213: -1819215802100655623
+    second: WallsAndTablesTileset_159
+  - first:
+      213: -5828630044944673005
+    second: WallsAndTablesTileset_160
+  - first:
+      213: 6522212339111063397
+    second: WallsAndTablesTileset_161
+  - first:
+      213: 6494149504268250159
+    second: WallsAndTablesTileset_162
+  - first:
+      213: -726304226118290677
+    second: WallsAndTablesTileset_163
+  - first:
+      213: -8474750568566756110
+    second: WallsAndTablesTileset_164
+  - first:
+      213: -810485447571374814
+    second: WallsAndTablesTileset_165
+  - first:
+      213: 1055246466475957217
+    second: WallsAndTablesTileset_166
+  - first:
+      213: 7450075767999901486
+    second: WallsAndTablesTileset_167
+  - first:
+      213: -9063239015422224783
+    second: WallsAndTablesTileset_168
+  - first:
+      213: -8036001014980836549
+    second: WallsAndTablesTileset_169
+  - first:
+      213: -6147110228254161714
+    second: WallsAndTablesTileset_170
+  - first:
+      213: -1999087863715249028
+    second: WallsAndTablesTileset_171
+  - first:
+      213: -1544241590591014987
+    second: WallsAndTablesTileset_172
+  - first:
+      213: -6904819803894014922
+    second: WallsAndTablesTileset_173
+  - first:
+      213: 2573166090088460649
+    second: WallsAndTablesTileset_174
+  - first:
+      213: -1552228518774124369
+    second: WallsAndTablesTileset_175
+  - first:
+      213: 6894955527236102813
+    second: WallsAndTablesTileset_176
+  - first:
+      213: 4905888289108537995
+    second: WallsAndTablesTileset_177
+  - first:
+      213: 7975994460824450743
+    second: WallsAndTablesTileset_178
+  - first:
+      213: 5391713495471587618
+    second: WallsAndTablesTileset_179
+  - first:
+      213: -8038929248167235642
+    second: WallsAndTablesTileset_180
+  - first:
+      213: -3254216916899135755
+    second: WallsAndTablesTileset_181
+  - first:
+      213: -8235611743620193568
+    second: WallsAndTablesTileset_182
+  - first:
+      213: -1899829405234603396
+    second: WallsAndTablesTileset_183
+  - first:
+      213: -7889634094098926151
+    second: WallsAndTablesTileset_184
+  - first:
+      213: -4934490300338551026
+    second: WallsAndTablesTileset_185
+  - first:
+      213: 62851920378285598
+    second: WallsAndTablesTileset_186
+  - first:
+      213: -2673686446120419729
+    second: WallsAndTablesTileset_187
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d10fddba8eb35a48894998c97e4295f
+      internalID: 3988091018320777714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90e14e3f14c4e84dbd2401dce30b96b
+      internalID: -5885171768978709551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead830e278b91e043a2ee718d918064e
+      internalID: 970115715757159910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ee4f7a259234d45a29f88421c4258a
+      internalID: -3726847983229619108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707758f9f7d6fb349bb89cbc290e0d23
+      internalID: 4247536582273720827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443170f43d43deb4da0b66a40062290e
+      internalID: 5915857312908502544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bec0d99b9fb42469dfc18bc4cd9727
+      internalID: 7519447283949378343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd1109f889d12045a36005ace7e7603
+      internalID: -7405162704291203043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a188d7a16b3574eb15bcd6f8953214
+      internalID: 6732194894086118848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5ca0c108cc76c41a2c712801c50f3d
+      internalID: -7511690351704021665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa42505561e313d4f97bb30bb569a42c
+      internalID: -8275154500695516909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093a2637706101443a01500f2abfdaed
+      internalID: -3913352568582971088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b7af3632ea3354d87defb165c48860
+      internalID: -6528194515192648426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834726a9b115e674cb674ec6d32d8886
+      internalID: 5508088145413426938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9913ee48b7851c2458e338eb0810328b
+      internalID: 2827577822006164341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306fba7c63bc7ca44af31967a16a8061
+      internalID: 6020069647277700128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803f87a33551f5c49bd57c33684342d2
+      internalID: -7970283188122613180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e8b35eb06094e4fb6c66ef4c37f283
+      internalID: -6647093458607391597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453b28f0a51978c4e939f704e053076f
+      internalID: -5111429435332368648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7804cba417716bc46b17382ca6a6774b
+      internalID: 3920407940387820007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c68150a8dffd541992610c6571db52
+      internalID: -7958359109679295209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8954748aae9a2045bc60dc7e534f0b9
+      internalID: 1813377864075363352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a684ded08cc13f044b452b4f26abe59f
+      internalID: 4198460095546602470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4babe0055897e428c7dac739f1bef4
+      internalID: -2497978303122235363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a47dff89f9bdd4a8d895bc6a1056c9
+      internalID: 7940214466601418914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4e96dbac667c549bda913d2129c2ad
+      internalID: 6389296310927404956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5992ed9701f071140b4cb47857555167
+      internalID: -955936182841111200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891188b1d9a26614987c48cc360f2c5d
+      internalID: -6820331872444080357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50aa901866b5b7841a295abeadfd4939
+      internalID: 1882817784988486047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_29
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90d31141063ad947835bcd3e5a44fe4
+      internalID: 8882377449633565601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb5fa9c88b20e64b8cb403069508a24
+      internalID: -5163118980835722996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_31
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593b00f7a3e2de54797f7fc34e39dd50
+      internalID: -8967197318741526159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_32
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234bcd70c709c4b409fd46212539421e
+      internalID: 4914434539614082905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_33
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e67d50946da63408ac9f0fb77da249
+      internalID: -1500477886225650212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a4607d00dec7b4aa54311fd9b10cab
+      internalID: -6861628284943991918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_35
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9e3e18059d06c45b6b0acd0770912d
+      internalID: -2141011510683923332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f09604dd0789f42ba4ce5f58b255a4
+      internalID: 7621833098875455920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c3552ec8cc9e14c82229c0592fde94
+      internalID: -5045771353091834523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9646694a08db045a65b134da086ef9
+      internalID: -1111511822316954009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088950f08bbf5044ea4991e18d333df0
+      internalID: 7189535831820111535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533861b7b87b1c04b9f338843a52307c
+      internalID: -440286308336623689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de782d9fe10e9794c9122063af2316d6
+      internalID: -8596082482991568252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94756fbe34a9e444aa12e5b43962a476
+      internalID: -1117178142601716133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ae50e06cf0a424c8d1e56769a9521f
+      internalID: 996625795514300717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9599e2a2ff348b49910edef180ead0a
+      internalID: 1300769329895831672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a506e9c09f48c2438cbb7b7b38a1c9f
+      internalID: -3936414159190950821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59577a74ee6179d40af448109a2fd718
+      internalID: -5143048858350930017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e888e4cfdde5b3540aa16b32c42d728b
+      internalID: 7065635145305233411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_48
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9321a335803f274f98700335e130c96
+      internalID: 4146070995649873947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_49
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42390f75d732bb54f85b0a1faf349a43
+      internalID: 5404120951247898472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a19ebe508501bf4b89c2753638f8506
+      internalID: 5096178950482414955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a4df7279a1e7a4aa6d91e7e2c340ae
+      internalID: 9085650326480517470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3240b621d9726ad49b00fdffa772bf4f
+      internalID: 8029472985665875635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9dedc78cbc7fe498d6a6ea23442da5
+      internalID: 190930203384643946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37be794825336441915b3b36951089a
+      internalID: -2771245375358022319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a80c9750bc523a41b9f0b73cbab50c2
+      internalID: 7719603221251340634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6c6023c9f06d340afaaae1ffc8b5dc
+      internalID: -4648764645580402683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3668bf903f4a7aa4680b961a13773fb5
+      internalID: 1144590118796433318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985f4e7b17cf0ed43beb619f6b039805
+      internalID: 3707832865323946159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7731ccf8a265ced4bb870788bfe6da93
+      internalID: -105347529409484261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_60
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d175990ac6041654ba63fc8646b1189b
+      internalID: -7328307401578042055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_61
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600351f60e0fd4949a0942ca0b05b5aa
+      internalID: -8234893115893236747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_62
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5fa799b630ba944ada0962122666e3
+      internalID: 2894202717188129387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_63
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd82b2f39907074e87f30c460f6c038
+      internalID: 8752954248318901286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1317011110607304584f13d6aeaaead0
+      internalID: 452654882776469083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8897cc826f541f540a8edc6da02bbf91
+      internalID: 4882460514451380316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ad8106db59e284f8c02cfc9666bd88
+      internalID: -4800101974928128948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a87f156e38a6840816056d3051b7ee
+      internalID: 4401140549760347017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3e551bf9f14dc498c4714d61d89b5a
+      internalID: -5725144401220353145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1e16f76454ddf4c82de7f20eb40c0d
+      internalID: 8567921840189953272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53456019e3c3fdd4eabd6bf9c3167491
+      internalID: 3354374714219656792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887a42e03f9505642ab391702f308f58
+      internalID: -7554580086811084828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a11b45b4fa52447b4fbc9e8bc49c57
+      internalID: -6479981238329083585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e4b7f7d8fa0984086cc75ec686abc4
+      internalID: -1069434894036122383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6ad306a8f4d9645bcc3983ebb0c7ad
+      internalID: 3404070794848936886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec7005c63484724399f002c8b07b92f
+      internalID: -7834730851418069767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4162c39900619d14d8813b616cefd58b
+      internalID: -5643206870174179439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7d167f90eeb724984f70ad74c0723e
+      internalID: 3436273647005090930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5788ffffb1ac244790dabc3b22ff1ed
+      internalID: -8727310285927252564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d98ac570daaaa4d972f7db16e69cbc
+      internalID: 1025671043986060298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_80
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9a9ba64c99a6f439040d6325c36347
+      internalID: -7266081740235369343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_81
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0853bfa17059cd4d8e656d99733cac6
+      internalID: -5238142595950887738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd25f0bbc4283f4e8a79dc3ec2ca498
+      internalID: -4704410727285966949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad6d85ffed62fe4ba03f7c93fce5575
+      internalID: 5462897578144069618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d775fd52bc70630498d58cbab3848afe
+      internalID: -3563456592649528189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_85
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa352087192a85a41a0cb6569c24426e
+      internalID: 884521980657904235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ec8ff7e4fd7ea47a5a6f020c0944a7
+      internalID: 8356049639343081042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_87
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea0057472a7ae94cabce3a7c37bf7ba
+      internalID: 6110931739121223897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f9fd5fbb646654da411be56d37ccba
+      internalID: -6658864558294345226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3254e7fb59a0d434b9b7ae985e7df0a2
+      internalID: 5413799726579340563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_90
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cca3e87e59d02941b296413c2d36979
+      internalID: -3867637698116273217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_91
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66ec5c8ec84c74459b0defa8a32bb33
+      internalID: 6511099551658890560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ff580d0ad8c894bbe7857e5995ec45
+      internalID: 3296936213505091729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_93
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520d5e5f02506f7459dc3f679609683d
+      internalID: 5401730901878192502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_94
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692d2727709a8cd41b77ec5b8d89fcb1
+      internalID: -9192824206519135326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_95
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8f6ed3dbdc127489786fb585b4a387
+      internalID: -8136072543467089386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_96
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b2910efbfc497459c4ad8ea2fe044a
+      internalID: -2448076134244390983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_97
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109f3758187707448a520826dadf8d1a
+      internalID: 6940059578029099042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_98
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74df99aad3c76784898d0f950f4a7612
+      internalID: 3030923773850508519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_99
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcf4891f8ea5ae4f85fb6fc76c09273
+      internalID: 8663685863970601440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f20c5f5f1a89c47a826b52cbc71817
+      internalID: -7949701029344190350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_101
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ad8c2f1c1637b4088d60915d423bf5
+      internalID: -5610776771254003358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_102
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f2c59dcc3b7de4d927be69e40934ee
+      internalID: -4062090811595434564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_103
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7d1e9f17dfde547b68182531503fcb
+      internalID: 910817892708341728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b611890ebcd6d046aea66d72956aee5
+      internalID: -3827848137331194541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_105
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31fd94f385309e42bdd79ee58dff315
+      internalID: 1293110179217623862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_106
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d99cd0a1a7a1c4f890ae8fbd82fe85
+      internalID: -7615909942796728161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_107
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e599637379742244693ea96d6c19d231
+      internalID: -5368075894140144942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_108
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe4d66d31a1c31489cf84560d54ba48
+      internalID: 5644121131222464429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_109
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debb684d7f69d5649b0ab2143c545c7c
+      internalID: -153209940540023049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_110
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bb55aa67a2f1e47abc9d31527fcc6a
+      internalID: 8830100229476208653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_111
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d87bfc87ae7c94dbbbaca030eb1f19
+      internalID: 5866367910736792872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_112
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a9f6455ac85c14db45d1bd928d0ded
+      internalID: -3300155491297605540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_113
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d10e2fe8aa503408b821b1ebddf9c6
+      internalID: 4617045462604901234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_114
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56a9275b7f49544b90be9e876e1fbec
+      internalID: 6708502646022725068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_115
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993844c86a8b1014d9e663101f015d81
+      internalID: 4018201239592743418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_116
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786617ad668257a4fac66249a9efedb4
+      internalID: 2250765192223005321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b28f4400a19304cbbd472ffff2294e
+      internalID: -6805611771134800861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_118
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6593e829b50203342a3aa0c63e2f22da
+      internalID: 5174137944723176982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_119
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7871da1342f73c247a3b7349f07098e6
+      internalID: -5148207317494916942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_120
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5140c0950da0d445b634cdadd3d137f
+      internalID: 4025192854451178633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc57182304a8a7243b3549b90a7e8b6a
+      internalID: 6527371314225096733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5779558acf347458a07c78b1b954b7
+      internalID: 3219720771728819610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587da20bc886738419a360625fcfc79a
+      internalID: 1844728986906359609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_124
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a66ca8e9820c3d4bbad1b0972f649d4
+      internalID: -8179355824259478291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_125
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f867afdab5c7642a7f25152d435841
+      internalID: -8698780230983097118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_126
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d61d93f05585b040948229140a8db61
+      internalID: -6302209989741949171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_127
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8262d3cbc3977a7468ad1879491d753c
+      internalID: 4124215361801341885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_128
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb203d474a7134469081171c632cbb4
+      internalID: 5844900869864168768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_129
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229806cf76ce34848ba877448bfdd777
+      internalID: 2684023238322009501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_130
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50855ecf427fc7145996065e246e9708
+      internalID: 4030153351891398743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_131
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb355caa7f3e7e44a2d2a9f61cfc7af
+      internalID: -4460883517633862121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_132
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aeca518900f8d544a849658429a9683
+      internalID: 4387402358233995545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_133
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6531ce21de6f2714e917a53d552f14c5
+      internalID: 2631989666529875465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79886a22a2a30a4498c9cd9dc5070438
+      internalID: -4439225165239444557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a6c4548da38ca4a9579f38623a859e
+      internalID: 4091335301300036770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_136
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d45a256c3ba6a14da919f01537e94e8
+      internalID: 3119629841792632147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_137
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c77ca34e3d0fa40b1917a108a0b955
+      internalID: 5381337057427895858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_138
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69efe760d023278468859f6f06000cb1
+      internalID: -4755429415392318923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_139
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ac4006ef174254a8d18e5e7deb0f0a
+      internalID: 250603852945994408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_140
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0936a452a5ee3d94abcac58fd47c0cd0
+      internalID: 361335959236458123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_141
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a085001282f6bed4fbdc69895c09ce27
+      internalID: 5413988381745910963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_142
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2187be590b6804f49b663c217bd163a5
+      internalID: 1859461844945104159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_143
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9c428c18922ad4e8d83dc383c25b9d
+      internalID: -3336445182880132672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_144
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe08964999c15954dac7f82ff509ebbe
+      internalID: 3184063425428326350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_145
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a462f0c3ac25844bbec982706306dd
+      internalID: -6813642825907985551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_146
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71b9b04f3e960d4b9793eb6618771fb
+      internalID: 5634792413108220492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29038c8df0c99cb40bc4fa3041983e50
+      internalID: -4737484805230914705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb8f0bd62c152f469b8e12f5512fdf8
+      internalID: -8772321087309622694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_149
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1f558ecc27ea943b950e45533d064d
+      internalID: -2103126359606906393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fcc4aaddc19be4baf5b78bc3eb746d
+      internalID: -7780768465905108116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_151
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f4b0a31d8138a40b815671c3b821c2
+      internalID: 1788006140932480856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_152
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441507b93e12bd4458a5bcf7cb626711
+      internalID: -1722400859258287512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b044ed778f9034592b7d0131f6096d
+      internalID: 1206647635294063527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_154
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8fb92da145fd340a0a31beab3fea8e
+      internalID: 8213114607856646652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_155
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc42717931b912489474dbb9a0ba7e8
+      internalID: 6250636557774899103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_156
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0837edba964ed104aa44745ab8d45b1e
+      internalID: 8626679286176562115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_157
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70372b19e070424bb09819a181aafc8
+      internalID: -6066857312169138030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_158
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177b75e847019b4438987bf0de0b0c8c
+      internalID: 137483498226404184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_159
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faa4242891503b4192cfb6866d11230
+      internalID: -1819215802100655623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_160
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6907bb840dd2af34f802db44095ce94a
+      internalID: -5828630044944673005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_161
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135217fa412ea574ca8e27dac3895107
+      internalID: 6522212339111063397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_162
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f4e091c3bec7344a98d062b5d49243
+      internalID: 6494149504268250159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_163
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f94461ef7209c41b62fb5939bad6b3
+      internalID: -726304226118290677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_164
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6897fafde4fe04418ba488ca1cd9631
+      internalID: -8474750568566756110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972b5b28f0df3844c8eaab18d3e03edb
+      internalID: -810485447571374814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_166
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a3c11bd6e40864d98f1ed02202c09f
+      internalID: 1055246466475957217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_167
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306f2e40442020f43b239966dd596868
+      internalID: 7450075767999901486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_168
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690b1fd9ce1ea04448da9b6416e81034
+      internalID: -9063239015422224783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_169
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9bcf5d242c800478d7de33d25655eb
+      internalID: -8036001014980836549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_170
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d68961b00c8c84ab45fc93f3c120cc
+      internalID: -6147110228254161714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ebbdf36c5a85a4784f54a3f902aabe
+      internalID: -1999087863715249028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_172
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b51ad84bf8ff9a4899e975c95dc9016
+      internalID: -1544241590591014987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8114804743720ab4b93e9f7b8d843ec8
+      internalID: -6904819803894014922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_174
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a2b2c3dc0d2a743b2d9706bf1c2452
+      internalID: 2573166090088460649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_175
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c47a162d04f204489058a158472c6bd
+      internalID: -1552228518774124369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_176
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8af632eb0aebe4b967b2d98aba32b1
+      internalID: 6894955527236102813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_177
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52500052e496a7a4ca2acb4f573bed1f
+      internalID: 4905888289108537995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_178
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49d312ebcd37f142967176c5e8b1d1a
+      internalID: 7975994460824450743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_179
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daa7a583cf3a274b96678a96bf95748
+      internalID: 5391713495471587618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_180
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a44e8ecbdfed2489d7e222d8fb6ee4
+      internalID: -8038929248167235642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_181
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29d37620f374314c861f4318a1e21fc
+      internalID: -3254216916899135755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_182
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1406cd58698e52a4797732183795e80a
+      internalID: -8235611743620193568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_183
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f985968f0cd4f494c96cd755a4b56498
+      internalID: -1899829405234603396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_184
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4870ee51ef4b24092e85cd8efd0ba7
+      internalID: -7889634094098926151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_185
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18dff5889a1ba94e954e1aa8e1fe8fd
+      internalID: -4934490300338551026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_186
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d910cff830e19a3468bef11a9a400258
+      internalID: 62851920378285598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndTablesTileset_187
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33a7aa879262ed458fbeb026b2e4e0d
+      internalID: -2673686446120419729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7f7cdff0f0dabd240b734c24f47c4252
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
