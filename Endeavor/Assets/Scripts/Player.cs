@@ -83,6 +83,7 @@ public class Player : MovingObject
 
         if (horizontal != 0 || vertical != 0)
         {
+            // Testing contribution stuff...
             // TODO: call AttemptMove with regards to anything the player may interact with
             AttemptMove<TargetJoint2D>(horizontal, vertical);
         }
