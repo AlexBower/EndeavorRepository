@@ -12,40 +12,16 @@ public class Player : MovingObject
     public int health;
     public int[] inventory;
 
-    public void SavePlayer()
-    {
-        SaveSystem.SavePlayer(this);
-    }
-
-    public void MoveToNewArea(Vector3 startingPositionInNewArea, string sceneNameOfNewArea)
-    {
-        transform.position = startingPositionInNewArea;
-        SceneManager.LoadScene(sceneNameOfNewArea);
-    }
-
-    public void LoadPlayer()
-    {
-        PlayerData data = SaveSystem.LoadPlayer();
-
-        level = data.level;
-        health = data.health;
-        inventory = data.inventory;
-
-        Vector3 position;
-        position.x = data.position[0];
-        position.y = data.position[1];
-        position.z = data.position[2];
-        transform.position = position;
-        SceneManager.LoadScene(data.currentScene);
-    }
+    private Animator animator;
 
     protected override void Start()
     {
+        animator = GetComponent<Animator>();
+        
         base.Start();
     }
 
-    void Awake()
-    {
+    void Awake() {
         GameObject[] objs = GameObject.FindGameObjectsWithTag("Player");
 
         if (objs.Length > 1)
@@ -54,21 +30,12 @@ public class Player : MovingObject
         }
 
         DontDestroyOnLoad(this.gameObject);
-        savedGamePaths = new string[3];
-        savedGamePaths[0] = Application.persistentDataPath + "playerSave0.data";
-        savedGamePaths[1] = Application.persistentDataPath + "playerSave1.data";
-        savedGamePaths[2] = Application.persistentDataPath + "playerSave2.data";
         gameObject.SetActive(false);
     }
 
     void Update()
     {
-// This is just For Testing Save Files! open
-        if (gameObject.activeSelf)
-        {
-            SavePlayer();
-        }
-        // This is just For Testing Save Files! close
+        if (!GameManager.instance.playersTurn) return;
 
         int horizontal = 0;
         int vertical = 0;
@@ -85,18 +52,10 @@ public class Player : MovingObject
         {
             // Testing contribution stuff...
             // TODO: call AttemptMove with regards to anything the player may interact with
-            AttemptMove<TargetJoint2D>(horizontal, vertical);
+            Move(horizontal, vertical, out RaycastHit2D hit);
+            GameManager.instance.playersTurn = false;
+            Debug.Log("Directional values: Horizontal = " + horizontal + "; Vertical = " + vertical);
         }
-    }
-
-    protected override void AttemptMove<T>(int xDir, int yDir)
-    {
-        base.AttemptMove<T>(xDir, yDir);
-    }
-
-    protected override void OnCantMove<T>(T component)
-    {
-        
     }
 
 }

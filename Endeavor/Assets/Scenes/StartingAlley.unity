@@ -5051,7 +5051,8 @@ GameObject:
   - component: {fileID: 1874701241}
   - component: {fileID: 1874701243}
   - component: {fileID: 1874701242}
-  m_Layer: 0
+  - component: {fileID: 1874701244}
+  m_Layer: 8
   m_Name: TilemapWall
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -5737,6 +5738,21 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!19719996 &1874701244
+TilemapCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1874701240}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_MaximumTileChangeCount: 1000
 --- !u!1 &2125967096
 GameObject:
   m_ObjectHideFlags: 0
