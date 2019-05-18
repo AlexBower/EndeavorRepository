@@ -23,6 +23,19 @@ public class GameManager : MonoBehaviour
         DontDestroyOnLoad(gameObject);
     }
     
-
+    void Update() {
+        if (playersTurn || test) {
+            return;
+        }
+        
+        StartCoroutine(othersTurn());
+    }
+public bool test;
+    IEnumerator othersTurn() {
+        test = true;
+        yield return new WaitForSeconds(0.1f);
+        playersTurn = true;
+        test = false;
+    }
 
 }
