@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2551928020328275419}
   - component: {fileID: 2551928020328275416}
   - component: {fileID: 2551928020328275417}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -29,7 +29,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2551928020328275421}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -1.8474267, y: 3.336969, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -97,6 +97,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveTime: 0.1
+  blockingLayer:
+    serializedVersion: 2
+    m_Bits: 0
   level: 0
   health: 0
   inventory: 

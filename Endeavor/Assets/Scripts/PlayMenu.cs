@@ -6,7 +6,13 @@ using UnityEngine.SceneManagement;
 
 public class PlayMenu : MonoBehaviour
 {
-    public Player player;
+    public GameObject player;
+
+    public void Start()
+    {
+        player = GameObject.FindGameObjectWithTag("Player");
+        player.SetActive(false);
+    }
 
     public void LoadGame(int gameNumberToLoad)
     {
@@ -14,8 +20,8 @@ public class PlayMenu : MonoBehaviour
         
         if (File.Exists(Player.savedGamePaths[Player.currentGameSaveIndex]))
         {
-            player.gameObject.SetActive(true);
-            player.LoadPlayer();
+            player.SetActive(true);
+            player.GetComponent<Player>().LoadPlayer();
         }
         else
         {
@@ -27,7 +33,7 @@ public class PlayMenu : MonoBehaviour
     {
         Player.currentGameSaveIndex = gameNumberToCreate;
 
-        player.gameObject.SetActive(true);
+        player.SetActive(true);
         SceneManager.LoadScene("StartingAlley");
     }
 }
