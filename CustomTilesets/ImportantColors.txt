@@ -1,0 +1,13 @@
+4bac46 Background Grass Color
+Overlay Grass Colors:
+5abf54 Light
+4bac46 Dark
+7e540b Wood Edge
+916518 Wood Edge Lighter
+a37423 Wood inner Darker
+ba8839 Wood inner medium
+c39348 Wood inner Lighter
+433e37 Shadow with 75% Opacity
+655c4e Road Edge
+8a7f6d Road Inner Lighter
+756c5d Road Inner Darker
