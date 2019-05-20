@@ -12,7 +12,7 @@ public class CameraController : MonoBehaviour
 
     void Start()
     {
-        player = GameObject.FindWithTag("Player");
+        player = GameObject.FindGameObjectWithTag("Player");
         if (player == null)
         {
             player = Instantiate(playerPrefab, new Vector3(0.0f, 0.0f, 0.0f), Quaternion.identity);

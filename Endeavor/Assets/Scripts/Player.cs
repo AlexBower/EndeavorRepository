@@ -55,14 +55,13 @@ public class Player : MovingObject
         savedGamePaths[0] = Application.persistentDataPath + "playerSave0.data";
         savedGamePaths[1] = Application.persistentDataPath + "playerSave1.data";
         savedGamePaths[2] = Application.persistentDataPath + "playerSave2.data";
-        gameObject.SetActive(false);
     }
 
     void Update()
     {
         if (!GameManager.instance.playersTurn) return;
 
-        if (gameObject.activeSelf)
+        if (gameObject.activeSelf && SceneManager.GetActiveScene().name != "MainMenu")
         {
             SavePlayer();
         }
