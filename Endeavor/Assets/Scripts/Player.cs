@@ -51,12 +51,21 @@ public class Player : MovingObject
         }
 
         DontDestroyOnLoad(this.gameObject);
+        savedGamePaths = new string[3];
+        savedGamePaths[0] = Application.persistentDataPath + "playerSave0.data";
+        savedGamePaths[1] = Application.persistentDataPath + "playerSave1.data";
+        savedGamePaths[2] = Application.persistentDataPath + "playerSave2.data";
         gameObject.SetActive(false);
     }
 
     void Update()
     {
         if (!GameManager.instance.playersTurn) return;
+
+        if (gameObject.activeSelf)
+        {
+            SavePlayer();
+        }
 
         int horizontal = 0;
         int vertical = 0;
@@ -75,7 +84,6 @@ public class Player : MovingObject
             // TODO: call AttemptMove with regards to anything the player may interact with
             Move(horizontal, vertical, out RaycastHit2D hit);
             GameManager.instance.playersTurn = false;
-            Debug.Log("Directional values: Horizontal = " + horizontal + "; Vertical = " + vertical);
         }
     }
 
