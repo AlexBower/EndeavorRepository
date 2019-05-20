@@ -12,15 +12,18 @@ public class Player : MovingObject
     public int health;
     public int[] inventory;
 
+    private Animator animator;
+
+    protected override void Start()
+    {
+        animator = GetComponent<Animator>();
+        
+        base.Start();
+    }
+
     public void SavePlayer()
     {
         SaveSystem.SavePlayer(this);
-    }
-
-    public void MoveToNewArea(Vector3 startingPositionInNewArea, string sceneNameOfNewArea)
-    {
-        transform.position = startingPositionInNewArea;
-        SceneManager.LoadScene(sceneNameOfNewArea);
     }
 
     public void LoadPlayer()
@@ -39,13 +42,7 @@ public class Player : MovingObject
         SceneManager.LoadScene(data.currentScene);
     }
 
-    protected override void Start()
-    {
-        base.Start();
-    }
-
-    void Awake()
-    {
+    void Awake() {
         GameObject[] objs = GameObject.FindGameObjectsWithTag("Player");
 
         if (objs.Length > 1)
@@ -63,12 +60,12 @@ public class Player : MovingObject
 
     void Update()
     {
-// This is just For Testing Save Files! open
+        if (!GameManager.instance.playersTurn) return;
+
         if (gameObject.activeSelf)
         {
             SavePlayer();
         }
-// This is just For Testing Save Files! close
 
         int horizontal = 0;
         int vertical = 0;
@@ -85,18 +82,9 @@ public class Player : MovingObject
         {
             // Testing contribution stuff...
             // TODO: call AttemptMove with regards to anything the player may interact with
-            AttemptMove<TargetJoint2D>(horizontal, vertical);
+            Move(horizontal, vertical, out RaycastHit2D hit);
+            GameManager.instance.playersTurn = false;
         }
-    }
-
-    protected override void AttemptMove<T>(int xDir, int yDir)
-    {
-        base.AttemptMove<T>(xDir, yDir);
-    }
-
-    protected override void OnCantMove<T>(T component)
-    {
-        
     }
 
 }
