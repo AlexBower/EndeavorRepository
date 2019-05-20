@@ -948,7 +948,7 @@ Tilemap:
   - first: {x: -1, y: -5, z: 0}
     second:
       m_TileIndex: 0
-      m_TileSpriteIndex: 1
+      m_TileSpriteIndex: 8
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -1205,9 +1205,8 @@ Tilemap:
   - m_RefCount: 2
     m_Data: {fileID: 8283584643079540007, guid: 41ebf1e555480ef40be1c39cf18268a4,
       type: 3}
-  - m_RefCount: 1
-    m_Data: {fileID: 3601231342723014182, guid: 41ebf1e555480ef40be1c39cf18268a4,
-      type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 16
     m_Data: {fileID: 4135554020987427477, guid: 41ebf1e555480ef40be1c39cf18268a4,
       type: 3}
@@ -1225,8 +1224,9 @@ Tilemap:
       type: 3}
   - m_RefCount: 2
     m_Data: {fileID: 166007190573405708, guid: 41ebf1e555480ef40be1c39cf18268a4, type: 3}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
+  - m_RefCount: 1
+    m_Data: {fileID: 3601231342723014182, guid: 41ebf1e555480ef40be1c39cf18268a4,
+      type: 3}
   - m_RefCount: 1
     m_Data: {fileID: -4186308553407570901, guid: 41ebf1e555480ef40be1c39cf18268a4,
       type: 3}
@@ -6248,3 +6248,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 0}
+  playerPrefab: {fileID: 2551928020328275421, guid: a59555e7d689b07489f19d79766ddc67,
+    type: 3}
