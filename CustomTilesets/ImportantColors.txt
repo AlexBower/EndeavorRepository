@@ -2,6 +2,7 @@
 Overlay Grass Colors:
 5abf54 Light
 4bac46 Dark
+6f4804 Wood Edge Darkest
 7e540b Wood Edge
 916518 Wood Edge Lighter
 a37423 Wood inner Darker
@@ -11,3 +12,11 @@ c39348 Wood inner Lighter
 655c4e Road Edge
 8a7f6d Road Inner Lighter
 756c5d Road Inner Darker
+cab28c House Wall
+a58a5f House Wall Darker
+676056 Doorknob Edge
+958f87 DoorKnob Inner Darker
+b4b0a9 DoorKnob Inner Lighter
+85cfcd Glass Darker
+a0dfde Glass
+c8efed Glass Lighter
