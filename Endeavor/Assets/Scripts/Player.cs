@@ -7,11 +7,13 @@ public class Player : MovingObject
 {
     static public string[] savedGamePaths;
     static public int currentGameSaveIndex = 0;
+    static public bool isChangingArea = false;
 
     public int level;
     public int health;
     public int[] inventory;
 
+    private Vector3 endingLocation;
     private Animator animator;
 
     protected override void Start()
@@ -86,4 +88,34 @@ public class Player : MovingObject
         }
     }
 
+    override protected IEnumerator SmoothMovement(Vector3 end)
+    {
+        float sqrRemainingDistance = (transform.position - end).sqrMagnitude;
+
+        while (sqrRemainingDistance > float.Epsilon)
+        {
+            Vector3 newPosition = Vector3.MoveTowards(rb2D.position, end, inverseMoveTime * Time.deltaTime);
+            if (isChangingArea)
+            {
+                newPosition = endingLocation;
+                end = endingLocation;
+                isChangingArea = false;
+            }
+            rb2D.MovePosition(newPosition);
+            sqrRemainingDistance = (transform.position - end).sqrMagnitude;
+            yield return null;
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.tag == "AreaTransition")
+        {
+            isChangingArea = true;
+            GameManager.instance.playersTurn = false;
+            endingLocation = other.GetComponent<AreaTransition>().newPosition;
+            transform.position = endingLocation;
+            SceneManager.LoadScene(other.GetComponent<AreaTransition>().newScene);
+        }
+    }
 }
