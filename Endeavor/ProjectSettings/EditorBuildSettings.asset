@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TheOverworld.unity
     guid: 1632dfa99d7665246b3ddabe7abbc949
+  - enabled: 1
+    path: Assets/Scenes/JimmysHouse.unity
+    guid: 3e9bc7f823934614f95303bdad9c21c8
   m_configObjects: {}

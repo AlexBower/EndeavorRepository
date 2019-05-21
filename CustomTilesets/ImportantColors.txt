@@ -20,3 +20,4 @@ b4b0a9 DoorKnob Inner Lighter
 85cfcd Glass Darker
 a0dfde Glass
 c8efed Glass Lighter
+ADADAD Tint for Area Transition
