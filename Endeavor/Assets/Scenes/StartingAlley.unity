@@ -8283,3 +8283,6 @@ MonoBehaviour:
     type: 3}
   gameManagerPrefab: {fileID: 5172575720201072841, guid: ecb204e2277078343909a38ce02d598f,
     type: 3}
+  pauseMenu: {fileID: 0}
+  pauseMenuPrefab: {fileID: 3838966245712251722, guid: d200e666e029e8b44a4ee9da908c95cc,
+    type: 3}

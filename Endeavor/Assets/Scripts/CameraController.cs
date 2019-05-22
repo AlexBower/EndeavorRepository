@@ -8,6 +8,8 @@ public class CameraController : MonoBehaviour
     public GameObject player;
     public GameObject playerPrefab;
     public GameObject gameManagerPrefab;
+    public GameObject pauseMenu;
+    public GameObject pauseMenuPrefab;
 
     private Vector3 offset;
 
@@ -20,10 +22,18 @@ public class CameraController : MonoBehaviour
             player = Instantiate(playerPrefab, new Vector3(0.0f, 0.0f, 0.0f), Quaternion.identity);
             player.SetActive(true);
         }
+        transform.position = player.transform.position + offset;
 
         if (GameManager.instance == null)
         {
             Instantiate(gameManagerPrefab, new Vector3(0.0f, 0.0f, 0.0f), Quaternion.identity);
+        }
+
+        if (GameObject.FindGameObjectWithTag("PauseMenu") == null)
+        {
+            pauseMenu = Instantiate(pauseMenuPrefab, new Vector3(0.0f, 0.0f, 0.0f), Quaternion.identity);
+            pauseMenu.GetComponent<PauseMenu>().player = player;
+            pauseMenu.gameObject.SetActive(true);
         }
 
         offset = new Vector3(0.0f, 0.0f, -10.0f);
