@@ -1,7 +1,9 @@
-4bac46 Background Grass Color
-Overlay Grass Colors:
-5abf54 Light
-4bac46 Dark
+4bac46 Grass Color
+5abf54 Grass Light
+28a123 Grass Dark
+99db97 Light Grass Color
+bbebbe Light Grass Light
+5dc757 Light Grass Dark
 6f4804 Wood Edge Darkest
 7e540b Wood Edge
 916518 Wood Edge Lighter
@@ -21,3 +23,6 @@ b4b0a9 DoorKnob Inner Lighter
 a0dfde Glass
 c8efed Glass Lighter
 ADADAD Tint for Area Transition
+a57a3e Light Dirt Path Edge
+dfa95d Light Dirt Path inner
+65% Opacity outer Edge of path
