@@ -61,12 +61,7 @@ public class Player : MovingObject
 
     void Update()
     {
-        if (!GameManager.instance.playersTurn) return;
-
-        if (gameObject.activeSelf && SceneManager.GetActiveScene().name != "MainMenu")
-        {
-            SavePlayer();
-        }
+        if (!GameManager.instance.playersTurn || PauseMenu.gameIsPaused) return;
 
         int horizontal = 0;
         int vertical = 0;
@@ -111,6 +106,7 @@ public class Player : MovingObject
     {
         if (other.tag == "AreaTransition")
         {
+            SceneManager.LoadScene("Loading");
             isChangingArea = true;
             GameManager.instance.playersTurn = false;
             endingLocation = other.GetComponent<AreaTransition>().newPosition;

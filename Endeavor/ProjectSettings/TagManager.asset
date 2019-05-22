@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Wall
   - AreaTransition
+  - PauseMenu
   layers:
   - Default
   - TransparentFX
