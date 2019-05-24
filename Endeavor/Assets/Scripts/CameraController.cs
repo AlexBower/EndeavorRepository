@@ -10,6 +10,7 @@ public class CameraController : MonoBehaviour
     public GameObject gameManagerPrefab;
     public GameObject pauseMenu;
     public GameObject pauseMenuPrefab;
+    public bool followCharacter = true;
 
     private Vector3 offset;
 
@@ -22,7 +23,12 @@ public class CameraController : MonoBehaviour
             player = Instantiate(playerPrefab, new Vector3(0.0f, 0.0f, 0.0f), Quaternion.identity);
             player.SetActive(true);
         }
-        transform.position = player.transform.position + offset;
+
+        if (followCharacter)
+        {
+            transform.position = player.transform.position + offset;
+            offset = new Vector3(0.0f, 0.0f, -10.0f);
+        }
 
         if (GameManager.instance == null)
         {
@@ -35,12 +41,13 @@ public class CameraController : MonoBehaviour
             pauseMenu.GetComponent<PauseMenu>().player = player;
             pauseMenu.gameObject.SetActive(true);
         }
-
-        offset = new Vector3(0.0f, 0.0f, -10.0f);
     }
 
     void LateUpdate()
     {
-        transform.position = player.transform.position + offset;
+        if (followCharacter)
+        {
+            transform.position = player.transform.position + offset;
+        }
     }
 }

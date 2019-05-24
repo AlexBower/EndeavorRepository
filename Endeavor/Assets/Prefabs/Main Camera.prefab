@@ -43,7 +43,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.3798505, g: 0.7713986, b: 0.8301887, a: 0}
+  m_BackGroundColor: {r: 0.36, g: 0.36, b: 0.36, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -104,3 +104,4 @@ MonoBehaviour:
   pauseMenu: {fileID: 0}
   pauseMenuPrefab: {fileID: 3838966245712251722, guid: d200e666e029e8b44a4ee9da908c95cc,
     type: 3}
+  followCharacter: 1

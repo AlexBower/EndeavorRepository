@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Loading.unity
     guid: 881cb55495c797541b79d327726c2159
+  - enabled: 1
+    path: Assets/Scenes/JakesHouse.unity
+    guid: b29ee67fdc6b3854fb9a09c9128901d8
   m_configObjects: {}
