@@ -30,10 +30,11 @@ public class GameManager : MonoBehaviour
         
         StartCoroutine(othersTurn());
     }
+
 public bool test;
     IEnumerator othersTurn() {
         test = true;
-        yield return new WaitForSeconds(0.15f);
+        yield return new WaitForSeconds(MovingObject.moveTime + 0.05f);
         playersTurn = true;
         test = false;
     }

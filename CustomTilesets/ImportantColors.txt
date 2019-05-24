@@ -2,8 +2,9 @@
 5abf54 Grass Light
 28a123 Grass Dark
 99db97 Light Grass Color
-bbebbe Light Grass Light
-5dc757 Light Grass Dark
+a9e4a7 Light Grass Light
+86d184 Light Grass Dark
+5dc757 Light Grass Edge
 6f4804 Wood Edge Darkest
 7e540b Wood Edge
 916518 Wood Edge Lighter
@@ -26,3 +27,9 @@ ADADAD Tint for Area Transition
 a57a3e Light Dirt Path Edge
 dfa95d Light Dirt Path inner
 65% Opacity outer Edge of path
+646464 Outline Inner Lighter
+565656 Outline Inner
+484848 Outline Lighter
+404040 Outline Darker
+505050 Outline light darker
+
