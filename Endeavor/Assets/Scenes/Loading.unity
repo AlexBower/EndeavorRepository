@@ -211,7 +211,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8275d02ebf91e1d489a8d523f167bfc0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  transitionTime: 0.75
+  transitionTime: 0.5
+  startingRGB: 0.22
+  colorChange: 0.02
+  numberOfColorChanges: 8
 --- !u!224 &27037539
 RectTransform:
   m_ObjectHideFlags: 0

@@ -7,6 +7,7 @@ TagManager:
   - Wall
   - AreaTransition
   - PauseMenu
+  - NPC
   layers:
   - Default
   - TransparentFX
@@ -49,4 +50,7 @@ TagManager:
     locked: 0
   - name: BlockingLayer
     uniqueID: 288371273
+    locked: 0
+  - name: Overhead
+    uniqueID: 3237330013
     locked: 0
