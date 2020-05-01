@@ -29,7 +29,15 @@ dfa95d Light Dirt Path inner
 65% Opacity outer Edge of path
 646464 Outline Inner Lighter
 565656 Outline Inner
+505050 Outline Shadow(medium)
 484848 Outline Lighter
 404040 Outline Darker
-505050 Outline light darker
 
+
+MainPlayer:
+e6ba7d Base Skin Tone
+e6aa6d Darker Skin Tone
+dca26e Darkest Skin Tone
+f5f5f5 White Of Eye
+926843 Eye Color light
+6e4725 Eye Color Dark

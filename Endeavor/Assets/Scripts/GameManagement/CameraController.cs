@@ -24,6 +24,8 @@ public class CameraController : MonoBehaviour
             player.SetActive(true);
         }
 
+        player.GetComponent<SpriteRenderer>().enabled = true;
+
         if (followCharacter)
         {
             transform.position = player.transform.position + offset;
@@ -41,6 +43,14 @@ public class CameraController : MonoBehaviour
             pauseMenu.GetComponent<PauseMenu>().player = player;
             pauseMenu.gameObject.SetActive(true);
         }
+
+        StartCoroutine(GracePeriod());
+    }
+
+    IEnumerator GracePeriod()
+    {
+        yield return new WaitForSecondsRealtime(0.1f);
+        Player.isChangingArea = false;
     }
 
     void LateUpdate()
@@ -49,5 +59,10 @@ public class CameraController : MonoBehaviour
         {
             transform.position = player.transform.position + offset;
         }
+    }
+
+    public void ForcedUpdate(Vector3 vec)
+    {
+        transform.position = vec + offset;
     }
 }

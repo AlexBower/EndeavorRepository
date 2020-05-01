@@ -9,20 +9,14 @@ public class PlayerData
 {
     public int level;
     public int health;
-    public string currentScene;
     public int[] inventory;
-    public float[] position;
+    public Location location;
 
     public PlayerData(Player player)
     {
         level = player.level;
         health = player.health;
-        currentScene = SceneManager.GetActiveScene().name;
         inventory = player.inventory;
-
-        position = new float[3];
-        position[0] = (int)player.transform.position.x;
-        position[1] = (int)player.transform.position.y;
-        position[2] = (int)player.transform.position.z;
+        location = new Location(player.transform.position, player.GetDirection());
     }
 }
