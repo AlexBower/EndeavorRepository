@@ -8,6 +8,7 @@ public class StartingAlleyManager : AreaManager
 
     public override void LoadNPCs()
     {
+        Debug.Log("Hello change");
         nonPlayerTestList = new List<GameObject>();
         turnBased = false;
         for (int i = 0; i < 10; i++)
