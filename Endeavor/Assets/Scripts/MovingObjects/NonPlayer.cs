@@ -12,7 +12,7 @@ public class NonPlayer : MovingObject
 
     virtual public void TakeTurn()
     {
-        
+        // Do nothing
     }
 
     override protected void MoveSuccessfull()

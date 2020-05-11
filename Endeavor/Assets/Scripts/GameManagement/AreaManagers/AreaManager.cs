@@ -8,8 +8,7 @@ public abstract class AreaManager : MonoBehaviour
     public static GameObject randomMovingNPC;
     public static GameObject presetMovingNPC;
 
-    // Start is called before the first frame update
-    void Start()
+    public void Start()
     {
         if (randomMovingNPC == null)
         {
@@ -21,9 +20,6 @@ public abstract class AreaManager : MonoBehaviour
         }
 
         GameManager.instance.SetAreaManager(this);
-        GameManager.instance.isPlayersTurn = true;
-        Player.isMoving = false;
-        GameManager.instance.isOthersTurn = false;
 
         LoadNPCs();
     }

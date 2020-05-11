@@ -162,6 +162,24 @@ public abstract class MovingObject : MonoBehaviour
             return true;
         }
         
+        if (xDir > 1)
+        {
+            xDir = 1;
+        }
+        else if (xDir < -1)
+        {
+            xDir = -1;
+        }
+
+        if (yDir > 1)
+        {
+            yDir = 1;
+        }
+        else if (yDir < -1)
+        {
+            yDir = -1;
+        }
+
         Vector3 start = transform.position;
         Vector3 end = start + new Vector3(xDir, yDir);
 

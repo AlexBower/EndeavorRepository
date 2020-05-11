@@ -33,30 +33,33 @@ public class GameManager : MonoBehaviour
 
     void Update()
     {
-        if (areaManager == null || !areaManager.turnBased)
+        if (!Player.isChangingArea)
         {
-            if (Player.isMoving && isPlayersTurn)
+            if (areaManager == null || !areaManager.turnBased)
             {
-                StartCoroutine(PlayersRealTime());
+                if (Player.isMoving && isPlayersTurn)
+                {
+                    StartCoroutine(PlayersRealTime());
+                }
+                if (!areOthersTakingTurn)
+                {
+                    StartCoroutine(OthersRealTime());
+                }
             }
-            if (!isOthersTurn)
+            else
             {
-                StartCoroutine(OthersRealTime());
-            }
-        }
-        else
-        {
-            if (!isPlayersTurn && !isOthersTurn)
-            {
-                StartCoroutine(OthersTurn());
+                if (!isPlayersTurn && !areOthersTakingTurn)
+                {
+                    StartCoroutine(OthersTurn());
+                }
             }
         }
     }
 
-    public bool isOthersTurn;
+    public bool areOthersTakingTurn = false;
 
     IEnumerator OthersTurn() {
-        isOthersTurn = true;
+        areOthersTakingTurn = true;
         yield return new WaitForSeconds(MovingObject.moveTime + 0.05f);
 
         if (areaManager != null)
@@ -66,12 +69,12 @@ public class GameManager : MonoBehaviour
         }
 
         isPlayersTurn = true;
-        isOthersTurn = false;
+        areOthersTakingTurn = false;
     }
 
     IEnumerator OthersRealTime()
     {
-        isOthersTurn = true;
+        areOthersTakingTurn = true;
         yield return new WaitForSeconds(MovingObject.moveTime + 0.05f);
 
         if (areaManager != null)
@@ -79,7 +82,7 @@ public class GameManager : MonoBehaviour
             areaManager.TakeNPCTurns();
             // yield return new WaitForSeconds(0.05f);
         }
-        isOthersTurn = false;
+        areOthersTakingTurn = false;
     }
 
     IEnumerator PlayersRealTime()

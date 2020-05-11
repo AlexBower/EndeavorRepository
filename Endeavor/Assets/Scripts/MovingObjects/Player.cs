@@ -161,6 +161,7 @@ public class Player : MovingObject
         if (other.tag == "AreaTransition")
         {
             isChangingArea = true;
+
             PauseMenu.canPauseGame = false;
             newSceneToOpen = other.GetComponent<AreaTransition>().newScene;
             endingLocation = other.GetComponent<AreaTransition>().newPosition;

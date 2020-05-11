@@ -2762,7 +2762,7 @@ Tilemap:
   - first: {x: -9, y: -10, z: 0}
     second:
       m_TileIndex: 1
-      m_TileSpriteIndex: 34
+      m_TileSpriteIndex: 41
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -4621,9 +4621,8 @@ Tilemap:
   - m_RefCount: 5
     m_Data: {fileID: -8117155278399391429, guid: 41ebf1e555480ef40be1c39cf18268a4,
       type: 3}
-  - m_RefCount: 1
-    m_Data: {fileID: 4446860567099965600, guid: 41ebf1e555480ef40be1c39cf18268a4,
-      type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 5
     m_Data: {fileID: -4186308553407570901, guid: 41ebf1e555480ef40be1c39cf18268a4,
       type: 3}
@@ -4641,8 +4640,9 @@ Tilemap:
   - m_RefCount: 21
     m_Data: {fileID: -634097740960912992, guid: 41ebf1e555480ef40be1c39cf18268a4,
       type: 3}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
+  - m_RefCount: 1
+    m_Data: {fileID: 4446860567099965600, guid: 41ebf1e555480ef40be1c39cf18268a4,
+      type: 3}
   m_TileMatrixArray:
   - m_RefCount: 274
     m_Data:
@@ -5148,7 +5148,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b780f0eb81b84346a67bee890157e69, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  turnBased: 0
+  turnBased: 1
 --- !u!4 &1411502486
 Transform:
   m_ObjectHideFlags: 0

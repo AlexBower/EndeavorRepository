@@ -49,8 +49,17 @@ public class CameraController : MonoBehaviour
 
     IEnumerator GracePeriod()
     {
+        Player.isChangingArea = true;
+        GameManager.instance.isPlayersTurn = false;
+        Player.isMoving = true;
+        GameManager.instance.areOthersTakingTurn = true;
+
         yield return new WaitForSecondsRealtime(0.1f);
+
         Player.isChangingArea = false;
+        GameManager.instance.isPlayersTurn = true;
+        Player.isMoving = false;
+        GameManager.instance.areOthersTakingTurn = false;
     }
 
     void LateUpdate()
