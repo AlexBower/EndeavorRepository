@@ -9,11 +9,13 @@ public abstract class MovingObject : MonoBehaviour
 
     static public float moveTime;
     static public LayerMask blockingLayer;
+    static public float inverseMoveTime;
 
     static MovingObject()
     {
-        moveTime = 0.2f;
+        moveTime = 0.05f;
         blockingLayer = -1;
+        inverseMoveTime = 1f / moveTime;
     }
 
     public List<Sprite> mainListOfSprites;
@@ -25,7 +27,6 @@ public abstract class MovingObject : MonoBehaviour
 
     public BoxCollider2D boxCollider;
     public Rigidbody2D rb2D;
-    public float inverseMoveTime;
 
     private bool takeLeftStep = true;
     private SpriteRenderer spriteRenderer;
@@ -35,6 +36,8 @@ public abstract class MovingObject : MonoBehaviour
 
     public static GameObject positionBusy;
     protected GameObject currentPositionBusy;
+
+    public bool isCurrentlyMoving = false;
 
     protected virtual void Start()
     {
@@ -69,8 +72,6 @@ public abstract class MovingObject : MonoBehaviour
         boxCollider = GetComponent<BoxCollider2D>();
         rb2D = GetComponent<Rigidbody2D>();
         
-
-        inverseMoveTime = 1f / moveTime;
         currentPositionBusy = null;
     }
 
@@ -155,54 +156,45 @@ public abstract class MovingObject : MonoBehaviour
 
     protected bool Move(int xDir, int yDir, out RaycastHit2D hit)
     {
-        if (xDir == 0 && yDir == 0)
+        if (!isCurrentlyMoving)
         {
-            hit = new RaycastHit2D();
-            StartCoroutine(WaitAndMoveSuccessfull());
-            return true;
-        }
-        
-        if (xDir > 1)
-        {
-            xDir = 1;
-        }
-        else if (xDir < -1)
-        {
-            xDir = -1;
-        }
+            isCurrentlyMoving = true;
 
-        if (yDir > 1)
-        {
-            yDir = 1;
-        }
-        else if (yDir < -1)
-        {
-            yDir = -1;
-        }
+            if (xDir == 0 && yDir == 0)
+            {
+                hit = new RaycastHit2D();
+                StartCoroutine(WaitAndMoveSuccessfull());
+                isCurrentlyMoving = false;
+                return true;
+            }
 
-        Vector3 start = transform.position;
-        Vector3 end = start + new Vector3(xDir, yDir);
+            Vector3 start = transform.position;
+            Vector3 end = start + new Vector3(xDir, yDir);
 
-        SetDirectionFromEndingLocation(end);
+            SetDirectionFromEndingLocation(end);
 
-        boxCollider.enabled = false;
-        hit = Physics2D.Linecast(start, end, blockingLayer);
-        boxCollider.enabled = true;
+            boxCollider.enabled = false;
+            hit = Physics2D.Linecast(start, end, blockingLayer);
+            boxCollider.enabled = true;
 
-        if (hit.transform == null)
-        {
-            StartCoroutine(SmoothMovement(start, end));
-            return true;
+            if (hit.transform == null)
+            {
+                StartCoroutine(SmoothMovement(start, end));
+                return true;
+            }
+            else
+            {
+                isCurrentlyMoving = false;
+                return false;
+            }
         }
-        else
-        {
-            return false;
-        }
+        hit = new RaycastHit2D();
+        return false;
     }
 
     private IEnumerator WaitAndMoveSuccessfull()
     {
-        yield return new WaitForSeconds(MovingObject.moveTime - 0.10f);
+        yield return new WaitForSeconds(MovingObject.moveTime - 0.01f);
         MoveSuccessfull();
     }
 
@@ -266,6 +258,7 @@ public abstract class MovingObject : MonoBehaviour
             }
             yield return null;
         }
+        isCurrentlyMoving = false;
     }
 
     virtual protected void MoveSuccessfull()

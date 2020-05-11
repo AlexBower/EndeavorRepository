@@ -48,6 +48,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -59,6 +60,7 @@ SpriteRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -95,8 +97,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c9a58f602d051940b71a69cb49d5726, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  positionBusy: {fileID: 8605458350984648032, guid: 10e0556d9c95ade409c7611db1cfa1cf,
-    type: 3}
   mainListOfSprites:
   - {fileID: -8868272330977153355, guid: df62e06de6317734593c18d9692a39ab, type: 3}
   - {fileID: 6349069617109316163, guid: df62e06de6317734593c18d9692a39ab, type: 3}
@@ -116,7 +116,7 @@ MonoBehaviour:
   - {fileID: -1022094387958069106, guid: df62e06de6317734593c18d9692a39ab, type: 3}
   boxCollider: {fileID: 0}
   rb2D: {fileID: 0}
-  inverseMoveTime: 0
+  isCurrentlyMoving: 0
   level: 0
   health: 0
   inventory: 

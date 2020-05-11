@@ -175,7 +175,6 @@ public class Player : MovingObject
         yield return new WaitForSeconds(moveTime / 3);
         gameObject.GetComponent<SpriteRenderer>().enabled = false;
         yield return new WaitForSeconds(moveTime / 6);
-        GameManager.instance.isPlayersTurn = false;
         SceneManager.LoadScene("Loading");
     }
 }

@@ -60,13 +60,13 @@ public class GameManager : MonoBehaviour
 
     IEnumerator OthersTurn() {
         areOthersTakingTurn = true;
-        yield return new WaitForSeconds(MovingObject.moveTime + 0.05f);
-
+        
         if (areaManager != null)
         {
             areaManager.TakeNPCTurns();
             // yield return new WaitForSeconds(0.05f);
         }
+        yield return new WaitForSeconds(MovingObject.moveTime + 0.05f);
 
         isPlayersTurn = true;
         areOthersTakingTurn = false;
@@ -75,19 +75,21 @@ public class GameManager : MonoBehaviour
     IEnumerator OthersRealTime()
     {
         areOthersTakingTurn = true;
-        yield return new WaitForSeconds(MovingObject.moveTime + 0.05f);
-
+        
         if (areaManager != null)
         {
             areaManager.TakeNPCTurns();
             // yield return new WaitForSeconds(0.05f);
         }
+
+        yield return new WaitForSeconds(MovingObject.moveTime + 0.05f);
         areOthersTakingTurn = false;
     }
 
     IEnumerator PlayersRealTime()
     {
         isPlayersTurn = false;
+
         yield return new WaitForSeconds(MovingObject.moveTime + 0.05f);
 
         Player.isMoving = false;
