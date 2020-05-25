@@ -10,7 +10,7 @@ public class StartingAlleyManager : AreaManager
     {
         nonPlayerTestList = new List<GameObject>();
         turnBased = false;
-        for (int i = 0; i < 10; i++)
+        for (int i = 0; i < 50; i++)
         {
             GameObject currentNPC = null;
             if (i % 2 == 0)

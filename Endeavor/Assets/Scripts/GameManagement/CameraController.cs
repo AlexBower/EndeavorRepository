@@ -54,7 +54,7 @@ public class CameraController : MonoBehaviour
         Player.isMoving = true;
         GameManager.instance.areOthersTakingTurn = true;
 
-        yield return new WaitForSecondsRealtime(0.1f);
+        yield return new WaitForSecondsRealtime(0.2f);
 
         Player.isChangingArea = false;
         GameManager.instance.isPlayersTurn = true;

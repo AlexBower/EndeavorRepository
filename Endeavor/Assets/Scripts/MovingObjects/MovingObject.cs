@@ -13,17 +13,15 @@ public abstract class MovingObject : MonoBehaviour
 
     static MovingObject()
     {
-        moveTime = 0.05f;
+        moveTime = 0.06f;
         blockingLayer = -1;
         inverseMoveTime = 1f / moveTime;
     }
 
     public List<Sprite> mainListOfSprites;
-    private Sprite[] movingSouthSprites = new Sprite[4];
-    private Sprite[] movingWestSprites = new Sprite[4];
-    private Sprite[] movingNorthSprites = new Sprite[4];
-    private Sprite[] movingEastSprites = new Sprite[4];
     private Sprite[] currentMovingSprites = new Sprite[4];
+
+    private Dictionary<Location.Direction, Sprite[]> directionToSprites;
 
     public BoxCollider2D boxCollider;
     public Rigidbody2D rb2D;
@@ -63,10 +61,12 @@ public abstract class MovingObject : MonoBehaviour
             }
         }
 
-        SetSpriteArrayToMainArray(movingSouthSprites, 0);
-        SetSpriteArrayToMainArray(movingWestSprites, 4);
-        SetSpriteArrayToMainArray(movingNorthSprites, 8);
-        SetSpriteArrayToMainArray(movingEastSprites, 12);
+        directionToSprites = new Dictionary<Location.Direction, Sprite[]>();
+
+        SetSpriteArrayToMainArray(Location.Direction.SOUTH, 0);
+        SetSpriteArrayToMainArray(Location.Direction.WEST, 4);
+        SetSpriteArrayToMainArray(Location.Direction.NORTH, 8);
+        SetSpriteArrayToMainArray(Location.Direction.EAST, 12);
 
         SetDirection(Location.Direction.SOUTH);
         boxCollider = GetComponent<BoxCollider2D>();
@@ -82,59 +82,49 @@ public abstract class MovingObject : MonoBehaviour
 
     public void SetDirection(Location.Direction dir)
     {
-        switch (dir)
+        if (dir == Location.Direction.STAY)
         {
-            case Location.Direction.SOUTH:
-                currentMovingSprites = movingSouthSprites;
-                break;
-            case Location.Direction.WEST:
-                currentMovingSprites = movingWestSprites;
-                break;
-            case Location.Direction.NORTH:
-                currentMovingSprites = movingNorthSprites;
-                break;
-            case Location.Direction.EAST:
-                currentMovingSprites = movingEastSprites;
-                break;
-            case Location.Direction.STAY:
-                spriteRenderer.sprite = currentMovingSprites[0];
-                return;
+            spriteRenderer.sprite = currentMovingSprites[0];
+            return;
         }
-        directionFacing = dir;
 
+        currentMovingSprites = directionToSprites[dir];
+        directionFacing = dir;
         spriteRenderer.sprite = currentMovingSprites[0];
+    }
+
+    public Location.Direction GetDirectionFromEndingLocation(Vector3 end)
+    {
+        if ((transform.position - end).y == 1)
+        {
+            return Location.Direction.SOUTH;
+        }
+        else if ((transform.position - end).x == 1)
+        {
+            return Location.Direction.WEST;
+        }
+        else if ((transform.position - end).y == -1)
+        {
+            return Location.Direction.NORTH;
+        }
+        else if ((transform.position - end).x == -1)
+        {
+            return Location.Direction.EAST;
+        }
+        else
+        {
+            return Location.Direction.STAY;
+        }
     }
 
     protected void SetDirectionFromEndingLocation(Vector3 end)
     {
-        if ((transform.position - end).y == 1)
-        {
-            SetDirection(Location.Direction.SOUTH);
-        }
-        else if ((transform.position - end).x == 1)
-        {
-            SetDirection(Location.Direction.WEST);
-        }
-        else if ((transform.position - end).y == -1)
-        {
-            SetDirection(Location.Direction.NORTH);
-        }
-        else if ((transform.position - end).x == -1)
-        {
-            SetDirection(Location.Direction.EAST);
-        }
-        else
-        {
-            SetDirection(Location.Direction.STAY);
-        }
+        SetDirection(GetDirectionFromEndingLocation(end));
     }
 
-    private void SetSpriteArrayToMainArray(Sprite[] arrayOfSprites, int mainArrayStartIndex)
+    private void SetSpriteArrayToMainArray(Location.Direction direction, int mainArrayStartIndex)
     {
-        for (int i = 0; i < arrayOfSprites.Length; i++)
-        {
-            arrayOfSprites[i] = mainListOfSprites[i + mainArrayStartIndex];
-        }
+        directionToSprites.Add(direction, mainListOfSprites.GetRange(mainArrayStartIndex, 4).ToArray());
     }
 
     protected bool Move(Location.Direction direction, out RaycastHit2D hit)
@@ -194,7 +184,7 @@ public abstract class MovingObject : MonoBehaviour
 
     private IEnumerator WaitAndMoveSuccessfull()
     {
-        yield return new WaitForSeconds(MovingObject.moveTime - 0.01f);
+        yield return new WaitForSeconds(MovingObject.moveTime * 0.5f);
         MoveSuccessfull();
     }
 
@@ -248,7 +238,10 @@ public abstract class MovingObject : MonoBehaviour
             }
             else if (sqrRemainingDistance <= 0.2f)
             {
-                Destroy(currentPositionBusy);
+                if (currentPositionBusy != null)
+                {
+                    Destroy(currentPositionBusy);
+                }
                 spriteRenderer.sprite = currentMovingSprites[2];
                 if (!hasSentMoveSuccessfull)
                 {
